@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.unscramble.app-mergeDebugResources-42:/values/values.xml",
+            "outputFile": "com.example.unscramble.app-mergeDebugResources-43:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\matiw\\OneDrive\\Uni\\sem6\\android\\ICM_122387\\basic-android-kotlin-compose-training-unscramble-starter\\app\\src\\main\\res\\values\\themes.xml",

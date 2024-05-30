@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.unscramble.app-mergeDebugResources-42:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.example.unscramble.app-mergeDebugResources-43:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\matiw\\.gradle\\caches\\transforms-3\\f661111a22eb9d43fb508cc2b96728a5\\transformed\\material3-1.1.1\\res\\values-es-rUS\\values-es-rUS.xml",

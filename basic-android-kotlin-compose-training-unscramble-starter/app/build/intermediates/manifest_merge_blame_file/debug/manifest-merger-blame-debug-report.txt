@@ -74,17 +74,17 @@
 51            </intent-filter>
 52        </activity>
 53        <activity
-53-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
-54            android:name="androidx.activity.ComponentActivity"
-54-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
+53-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+54            android:name="androidx.compose.ui.tooling.PreviewActivity"
+54-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
 55            android:exported="true" />
-55-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+55-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
 56        <activity
-56-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
-57            android:name="androidx.compose.ui.tooling.PreviewActivity"
-57-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+56-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+57            android:name="androidx.activity.ComponentActivity"
+57-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
 58            android:exported="true" />
-58-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\c8af9b0953afc1391b19d9b6ee1651d0\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+58-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\matiw\.gradle\caches\transforms-3\6ca38cc84ca3c2724330c2f408492ff0\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
 59
 60        <provider
 60-->[androidx.emoji2:emoji2:1.4.0] C:\Users\matiw\.gradle\caches\transforms-3\bb881b6d91d15bf7b3c67defac3a10d7\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20

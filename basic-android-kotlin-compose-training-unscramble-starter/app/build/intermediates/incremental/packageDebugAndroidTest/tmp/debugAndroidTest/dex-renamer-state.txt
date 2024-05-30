@@ -1,0 +1,4 @@
+#Thu May 30 14:47:21 BST 2024
+base.0=C\:\\Users\\matiw\\OneDrive\\Uni\\sem6\\android\\ICM_122387\\basic-android-kotlin-compose-training-unscramble-starter\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
